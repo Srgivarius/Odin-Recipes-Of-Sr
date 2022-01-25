@@ -1,0 +1,105 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    background-color: #efefef;
+}
+p {
+    font-size: 25px;
+    font-size: 'Reboto', sans-serif;
+    font-family: 'Satisfy', cursive;
+}
+h1 {
+    text-align: center;
+    color: #222;
+    font-weight: 800;
+    font-size: 45px;
+    margin: 30px auto;
+}
+.container-recipe {
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    box-shadow: 4px 6px 5px 2px rgba(0, 0, 0, 0.2);
+    width: 60%;
+    margin-right:auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top:4%;
+    margin-left:20%;
+    height:570px ;
+}
+.container-recipe h2 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.container-recipe h3 {
+    font-size: x-large;
+    
+}
+.portada {
+    margin-top: 23px;
+    width: 480px;
+    height: 65%;
+    border-radius: 20px;
+ }
+.introduction {
+    background-color: rgb(245, 214, 75);
+    font-size: x-large;
+    border-radius: 20px;
+    box-shadow: 2px 3px 3px 1px rgba(0, 0, 0, 0.2);
+    width: 50%;
+    margin:auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+ .intro{
+    background-color: #fff;
+    width: 50%;
+    margin-top:50px;
+    font-size: x-large;
+    margin-left:25%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 100px;
+    padding-top: 3px;
+}
+.img-food {
+    margin-left: 20%;
+    height: 500px;
+    width:60%;
+}
+.ingredientes {
+    font-size: x-large;
+    list-style: none;
+    padding-left: 0px;
+    font-family: 'Satisfy', cursive;
+    width: 100%;
+    margin-left: 60px;
+}
+.box-ingredientes {
+    display: inline-block;
+     width: 75%;
+     height: 90%;
+}
+.recipe-box {
+    display: inline-flex;
+    width: 100%;
+    height: 85%;
+}
+.list {
+    text-align:center;
+    font-size: x-large;
+}
+a {
+    background-color: rgb(48, 65, 139);
+    transition: background-color .0s;
+}
+
+a:hover {
+    background-color: rgb(158, 9, 9);
+    
+}
+
