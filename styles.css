@@ -93,13 +93,4 @@ h1 {
     text-align:center;
     font-size: x-large;
 }
-a {
-    background-color: rgb(48, 65, 139);
-    transition: background-color .0s;
-}
-
-a:hover {
-    background-color: rgb(158, 9, 9);
-    
-}
 
