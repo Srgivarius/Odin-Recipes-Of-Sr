@@ -1,0 +1,42 @@
+body {
+    width: 100%;
+    background-color: #efefef;
+}
+h1 {
+    text-align: center;
+    color: #222;
+    font-weight: 800;
+    font-size: 45px;
+    margin: 30px auto;
+}
+.recipe-container {
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    box-shadow: 4px 5px 5px 3px rgba(0, 0, 0, 0.2);
+    width: 60%;
+    margin-right:auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top:4%;
+    margin-left:20%;
+    height:870px ;
+}
+ h3 {
+     font-size: x-large;
+     width: 80%;
+     margin-left:10%;
+     padding-top: 31px;
+ }
+ .preparacion {
+     font-size: x-large; 
+     font-family: 'Satisfy', cursive;
+     line-height: 2em;
+ }
+ .ending {
+    font-size: x-large; 
+    font-family: 'Satisfy', cursive;
+ }
+ img {
+     width:40%;
+     margin-left: 30%;
+ }
