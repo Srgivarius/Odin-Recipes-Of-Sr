@@ -83,6 +83,7 @@ h1 {
     display: inline-block;
      width: 75%;
      height: 90%;
+     padding-right: 40px;
 }
 .recipe-box {
     display: inline-flex;
